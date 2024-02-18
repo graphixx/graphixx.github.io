@@ -623,7 +623,7 @@ Margin Right
 /*---------------------------------------------------------------------
                             Header
 -----------------------------------------------------------------------*/
-header { position: fixed; display: inline-block; width: 100%; top: 0; left: 0; z-index: 999; padding: 0px 0; transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; }
+header { position: fixed; display: inline-block; width: 100%; top: 0; left: 0; z-index: 999; padding: 20px 0; transition: all 0.5s ease-in-out; transition: all 0.5s ease-in-out; -moz-transition: all 0.5s ease-in-out; -ms-transition: all 0.5s ease-in-out; -o-transition: all 0.5s ease-in-out; -webkit-transition: all 0.5s ease-in-out; }
 header .container-fluid { padding: 0 100px; }
 header .navbar { padding: 0; }
 header .navbar .navbar-brand { padding: 0; }
